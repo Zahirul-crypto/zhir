@@ -1,0 +1,2 @@
+# zhir
+repo untuk belajar
