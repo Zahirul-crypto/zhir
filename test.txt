@@ -1,0 +1,22 @@
+git add .
+git commit -m "server jdango test"
+git push origin main
+git log
+
+
+more command shoud you know
+cd [ke folder]
+echo test > [namafile]
+del [file]
+mkdir [namafolder]
+rmdir \s \q [folder]
+
+
+git config --global user.email "gigilu@gmail.com"
+git config --list
+hapus credensial windows
+
+untuk pull
+git clone https://github.com/gigilu/samsung_semester1_sesi2.git
+
+
